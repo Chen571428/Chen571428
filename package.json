@@ -1,0 +1,12 @@
+{
+  "name": "StatInferBlog",
+  "version": "1.0.0",
+  "description": "Blog of StatInfer",
+  "main": "index.js",
+  "repository": "https://github.com/Chen571428/Chen571428.github.io",
+  "author": "StatInfer",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.18"
+  }
+}
