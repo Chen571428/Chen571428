@@ -3,7 +3,7 @@
 ## About me
 - Student at Peking University, Yuanpei College. Majoring in Computer Science.
 - Current chairman of [Linux Club of Peking University](https://github.com/lcpu-club/) since 2026.
-- Focoused on HPC and AI Infra.
+- Focused on HPC and AI Infra.
 - Member of PKU Supercomputing team
 
 ## 中文介绍
